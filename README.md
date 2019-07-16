@@ -4,7 +4,7 @@ This is a collection of links related to programming in general which I found ei
 
 ## Index
 
-1. [Q.A](#Q&A)
+1. [Q.A](#qa)
 
 ## Q&A
 
