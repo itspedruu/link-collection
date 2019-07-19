@@ -5,11 +5,17 @@ This is a collection of links related to programming in general which I found ei
 ## Index
 
 1. [Q&A](#qa)
-2. [Youtube Channels](#youtube-channels)
+2. [Challenges](#challenges)
+3. [Youtube Channels](#youtube-channels)
 
 ## Q&A
 
 - [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)
+
+## Challenges
+
+- [Over 1,500 project ideas](https://www.linuxtrainingacademy.com/projects/)
+- [LeetCode](https://leetcode.com/)
 
 ## Youtube Channels
 
