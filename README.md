@@ -7,6 +7,8 @@ This is a collection of links related to programming in general which I found ei
 1. [Q&A](#qa)
 2. [Challenges](#challenges)
 3. [Youtube Channels](#youtube-channels)
+4. [Articles](#articles)
+5. [Open Source Projects](#open-source-projects)
 
 ## Q&A
 
@@ -25,3 +27,12 @@ This is a collection of links related to programming in general which I found ei
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+## Articles
+
+- [Oh Shit, Git](http://ohshitgit.com/)
+- [Js The Right Way](http://jstherightway.org/)
+
+## Open Source Projects
+
+- [Windows Quick Look](https://github.com/QL-Win/QuickLook)
