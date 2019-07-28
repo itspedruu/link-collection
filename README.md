@@ -8,7 +8,8 @@ This is a collection of links related to programming in general which I found ei
 2. [Challenges](#challenges)
 3. [Youtube Channels](#youtube-channels)
 4. [Articles](#articles)
-5. [Open Source Projects](#open-source-projects)
+5. [Tools](#tools)
+6. [Libraries and Frameworks](#libraries-and-frameworks)
 
 ## Q&A
 
@@ -33,6 +34,16 @@ This is a collection of links related to programming in general which I found ei
 - [Oh Shit, Git](http://ohshitgit.com/)
 - [Js The Right Way](http://jstherightway.org/)
 
-## Open Source Projects
+## Tools
 
 - [Windows Quick Look](https://github.com/QL-Win/QuickLook)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
+- [Remove.bg](https://remove.bg)
+- [Pexels](https://pexels.com)
+- [Icons8](https://icons8.com)
+
+## Libraries and Frameworks
+
+- [React Native Game Engine](https://github.com/bberak/react-native-game-engine)
+- [React Game Kit](https://github.com/FormidableLabs/react-game-kit)
+- [Discord.js](https://github.com/discordjs/discord.js)
