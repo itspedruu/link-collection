@@ -1,6 +1,6 @@
 ## What is this?
 
-This is a collection of links related to programming in general which I found either on reddit or just searching the web.
+This repository organizes a collection of links I found while searching the web. I created this repository to remind myself that some type of things exists and to give a free collection of knowledge to others programmers enthusiats.
 
 ## Index
 
@@ -28,11 +28,15 @@ This is a collection of links related to programming in general which I found ei
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- [Red Stappler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
 
 ## Articles
 
 - [Oh Shit, Git](http://ohshitgit.com/)
 - [Js The Right Way](http://jstherightway.org/)
+- [Automate Your Dating Life with 100 Lines of Python](https://elimernit.com/blog/auto-swipe/)
 
 ## Tools
 
