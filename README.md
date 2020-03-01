@@ -37,6 +37,7 @@ This repository organizes a collection of links I found while searching the web.
 - [Oh Shit, Git](http://ohshitgit.com/)
 - [Js The Right Way](http://jstherightway.org/)
 - [Automate Your Dating Life with 100 Lines of Python](https://elimernit.com/blog/auto-swipe/)
+- [Why Computers Can Never Generate Truly Random Numbers](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity/)
 
 ## Tools
 
@@ -45,9 +46,10 @@ This repository organizes a collection of links I found while searching the web.
 - [Remove.bg](https://remove.bg)
 - [Pexels](https://pexels.com)
 - [Icons8](https://icons8.com)
+- [Zenkit](https://zenkit.com)
 
 ## Libraries and Frameworks
 
 - [React Native Game Engine](https://github.com/bberak/react-native-game-engine)
 - [React Game Kit](https://github.com/FormidableLabs/react-game-kit)
-- [Discord.js](https://github.com/discordjs/discord.js)
+- [Discord.js](https://github.com/discordjs/discord.js) 
