@@ -4,16 +4,12 @@ This repository organizes a collection of links I found while searching the web.
 
 ## Index
 
-1. [Q&A](#qa)
-2. [Challenges](#challenges)
-3. [Youtube Channels](#youtube-channels)
-4. [Articles](#articles)
-5. [Tools](#tools)
-6. [Libraries and Frameworks](#libraries-and-frameworks)
-
-## Q&A
-
-- [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)
+1. [Challenges](#challenges)
+2. [Youtube Channels](#youtube-channels)
+3. [Articles](#articles)
+4. [Tools](#tools)
+5. [Libraries and Frameworks](#libraries-and-frameworks)
+6. [Courses](#courses)
 
 ## Challenges
 
@@ -37,7 +33,8 @@ This repository organizes a collection of links I found while searching the web.
 - [Oh Shit, Git](http://ohshitgit.com/)
 - [Js The Right Way](http://jstherightway.org/)
 - [Automate Your Dating Life with 100 Lines of Python](https://elimernit.com/blog/auto-swipe/)
-- [Why Computers Can Never Generate Truly Random Numbers](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity/)
+- [Why Computers Can Never Generate Truly Random Numbers](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity/)7
+- [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)
 
 ## Tools
 
@@ -53,3 +50,7 @@ This repository organizes a collection of links I found while searching the web.
 - [React Native Game Engine](https://github.com/bberak/react-native-game-engine)
 - [React Game Kit](https://github.com/FormidableLabs/react-game-kit)
 - [Discord.js](https://github.com/discordjs/discord.js) 
+
+# Courses
+
+- [CS50 Harvard](https://cs50.harvard.edu/x/2020/) **FREE**
