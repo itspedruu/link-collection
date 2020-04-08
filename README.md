@@ -44,6 +44,7 @@ This repository organizes a collection of links I found while searching the web.
 - [Pexels](https://pexels.com)
 - [Icons8](https://icons8.com)
 - [Zenkit](https://zenkit.com)
+- [Trello](https://trello.com)
 
 ## Libraries and Frameworks
 
