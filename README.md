@@ -4,7 +4,7 @@ This is a repository which gathers links about computer science either about `Co
 
 1. [Challenges](#challenges)
 2. [Youtube Channels](#youtube-channels)
-3. [Articles](#articles)
+3. [Articles or Books](#articles-or-books)
 4. [Tools](#tools)
 5. [Libraries and Frameworks](#libraries-and-frameworks)
 6. [Courses](#courses)
@@ -26,13 +26,15 @@ This is a repository which gathers links about computer science either about `Co
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 - [Red Stappler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
 
-## Articles
+## Articles or Books
 
 - [Oh Shit, Git](http://ohshitgit.com/)
 - [Js The Right Way](http://jstherightway.org/)
 - [Automate Your Dating Life with 100 Lines of Python](https://elimernit.com/blog/auto-swipe/)
 - [Why Computers Can Never Generate Truly Random Numbers](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity/)7
 - [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)
+- [Teach yourself Computer Science](https://teachyourselfcs.com/)
+- [Javascript testing best pratices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ## Tools
 
@@ -43,12 +45,17 @@ This is a repository which gathers links about computer science either about `Co
 - [Icons8](https://icons8.com)
 - [Zenkit](https://zenkit.com)
 - [Trello](https://trello.com)
+- [ClickUP](https://clickup.com/)
+- [DaFont](https://dafont.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 ## Libraries and Frameworks
 
 - [React Native Game Engine](https://github.com/bberak/react-native-game-engine)
 - [React Game Kit](https://github.com/FormidableLabs/react-game-kit)
-- [Discord.js](https://github.com/discordjs/discord.js) 
+- [Discord.js](https://github.com/discordjs/discord.js)
+- [FontAwesome](http://fontawesome.io/)
+- [Mongoose](https://mongoosejs.com/)
 
 # Courses
 
