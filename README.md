@@ -1,8 +1,6 @@
-## What is this?
+<p align="center"><img src="https://raw.githubusercontent.com/itspedruu/link-collection/master/banner.png"/></p>
 
-This repository organizes a collection of links I found while searching the web. I created this repository to remind myself that some type of things exists and to give a free collection of knowledge to others programmers enthusiats.
-
-## Index
+This is a repository which gathers links about computer science either about `Courses`, `Articles` and many others which you can find in the index below. This repository is constantly growing and if you have any suggestion you can make a pull request.
 
 1. [Challenges](#challenges)
 2. [Youtube Channels](#youtube-channels)
