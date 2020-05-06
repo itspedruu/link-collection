@@ -8,6 +8,7 @@ This is a repository which gathers links about computer science either about `Co
 4. [Tools](#tools)
 5. [Libraries and Frameworks](#libraries-and-frameworks)
 6. [Courses](#courses)
+7. [Technologies](#technologies)
 
 ## Challenges
 
@@ -68,6 +69,13 @@ This is a repository which gathers links about computer science either about `Co
 - [FontAwesome](http://fontawesome.io/)
 - [Mongoose](https://mongoosejs.com/)
 
-# Courses
+## Technologies
+
+- [Unreal Engine](https://www.unrealengine.com/en-US/)
+- [Unity](https://unity.com/)
+- [Deno](https://deno.land/)
+- [Go](https://golang.org/)
+
+## Courses
 
 - [CS50 Harvard](https://cs50.harvard.edu/x/2020/) **FREE**
