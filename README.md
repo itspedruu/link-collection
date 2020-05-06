@@ -25,6 +25,17 @@ This is a repository which gathers links about computer science either about `Co
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 - [Red Stappler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
+- [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+- [Ask Gamedev](https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg)
+- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+- [carykh](https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A)
+- [ColorCode](https://www.youtube.com/channel/UCHa8J-xnRYOg5VuudfWpBgg)
+- [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+- [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+- [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+- [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+- [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 
 ## Articles or Books
 
