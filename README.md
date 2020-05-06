@@ -14,6 +14,7 @@ This is a repository which gathers links about computer science either about `Co
 
 - [Over 1,500 project ideas](https://www.linuxtrainingacademy.com/projects/)
 - [LeetCode](https://leetcode.com/)
+- [Codecademy](https://www.codecademy.com/)
 
 ## Youtube Channels
 
@@ -68,6 +69,8 @@ This is a repository which gathers links about computer science either about `Co
 - [Discord.js](https://github.com/discordjs/discord.js)
 - [FontAwesome](http://fontawesome.io/)
 - [Mongoose](https://mongoosejs.com/)
+- [Angular](https://angular.io/)
+- [Next.js](https://nextjs.org/)
 
 ## Technologies
 
@@ -75,6 +78,7 @@ This is a repository which gathers links about computer science either about `Co
 - [Unity](https://unity.com/)
 - [Deno](https://deno.land/)
 - [Go](https://golang.org/)
+- [Imba](https://www.imba.io/)
 
 ## Courses
 
