@@ -10,6 +10,7 @@ This is a repository which gathers links about computer science either about `Co
 * [Libraries and Frameworks](#libraries-and-frameworks)
 * [Courses](#courses)
 * [Technologies](#technologies)
+* [Repositories](#repositories)
 
 ## Challenges
 
@@ -17,6 +18,8 @@ This is a repository which gathers links about computer science either about `Co
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [Over 1,500 project ideas](https://www.linuxtrainingacademy.com/projects/) | Just like the name says, Over 1500 project ideas.                                  |
 | [LeetCode](https://leetcode.com/)                                          | Website which hosts coding challenges from Easy to Hard to prepare for interviews. |
+| [App Ideas Repository](https://github.com/florinpop17/app-ideas)           | A github repository which holds great app ideas.                                   |
+| [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) | A github repository which holds solutions for javascript algorithms.               |
 
 ## Youtube Channels
 
@@ -52,7 +55,8 @@ This is a repository which gathers links about computer science either about `Co
 | [Automate Your Dating Life with 100 Lines of Python](https://elimernit.com/blog/auto-swipe/)                                                           | A python script which auto swipes right on Hinge. |
 | [Why Computers Can Never Generate Truly Random Numbers](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity/) | The essence of pseudorandom vs true random |
 | [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)                     | Pros and cons of using Linux for development. |
-| [Javascript testing best pratices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                                  | Javascript best testing practices |
+| [Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                                 | Javascript best testing practices |
+| [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices)                                                                             | Node.js best practices. |
 
 ## Books
 
@@ -104,3 +108,9 @@ This is a repository which gathers links about computer science either about `Co
 | Name                                               | Price |
 |----------------------------------------------------|-------|
 | [CS50 Harvard](https://cs50.harvard.edu/x/2020/)   | FREE  |
+
+## Repositories
+
+| Name                                                       | Description             |
+|------------------------------------------------------------|-------------------------|
+| [Public API's](https://github.com/public-apis/public-apis) | A list of public api's. | 
