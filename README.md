@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/itspedruu/link-collection/master/banner.png"/></p>
 
-This is a repository which gathers links about computer science either about `Courses`, `Articles` and many others which you can find in the index below. This repository is constantly growing and if you have any suggestion you can make a pull request.
+I created this repository to add 
 
 * [Challenges](#challenges)
 * [Youtube Channels](#youtube-channels)
@@ -17,70 +17,71 @@ This is a repository which gathers links about computer science either about `Co
 | Name                                                                       | Description                                                                        |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [Over 1,500 project ideas](https://www.linuxtrainingacademy.com/projects/) | Just like the name says, Over 1500 project ideas.                                  |
-| [LeetCode](https://leetcode.com/)                                          | Website which hosts coding challenges from Easy to Hard to prepare for interviews. |
-| [App Ideas Repository](https://github.com/florinpop17/app-ideas)           | A github repository which holds great app ideas.                                   |
-| [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) | A github repository which holds solutions for javascript algorithms.               |
+| [LeetCode](https://leetcode.com/)                                          | Coding challenges to help you through coding interviews.                           |
+| [App Ideas Repository](https://github.com/florinpop17/app-ideas)           | A github repository for great app ideas.                                           |
+| [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) | Javascript algorithms you should know.                                             |
 
 ## Youtube Channels
 
 | Name                                                                              | Description                                                                        |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)           | A youtube channel which mostly combines math with programming.                     |
-| [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)           | A youtube channel which talks about AI.                                            |
+| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)           | If you love math and programming you will love this channel.                       |
+| [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)           | AI related.                                                                        |
 | [Coding Garden With CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) | A chill youtuber and streamer who mostly codes with Javascript.                    |
-| [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)         | A group of guys who explains concept about Math and Computer Science.              |
-| [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)              | A well-edited youtube channel with lots of content about Computer Science.         |
+| [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)         | Get a better understanding of Computer Science with these guys.                    |
+| [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)              | Lots of fun content to enjoy about programming with professional content.          |
 | [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)        | Web development tutorials.                                                         |
-| [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)           | Posts tech conferences related to Computer Science.                                |
-| [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)                | Videos related to web development with that funny touch.                           |
+| [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)           | Tech Conferences / Tutorials.                                                      |
+| [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)                | Web design tutorials and more with the touch of comedy.                            |
 | [Red Stappler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)          | Short web development tutorials.                                                   |
-| [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)             | Streamer who streams Capture the Flag.                                             |
-| [Ask Gamedev](https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg)           | A group of guys who post content about game development.                           |
-| [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)              | Chill youtuber who teachs game development.                                        |
-| [carykh](https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A)                | Youtuber who makes evolution simulators.                                           |
+| [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)             | Capture the Flag streamer.                                                         |
+| [Ask Gamedev](https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg)           | Game development content by a fun group of guys.                                   |
+| [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)              | Chill game development tutorials.                                                  |
+| [carykh](https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A)                | A mix of AI and fun.                                                               |
 | [ColorCode](https://www.youtube.com/channel/UCHa8J-xnRYOg5VuudfWpBgg)             | Short web development tutorials.                                                   |
 | [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)              | Short and well designed web development tutorials.                                 |
-| [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)             | Ironic computer science youtuber. (Funny and educative tho)                        |
-| [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)                  | A news youtube channel related to cyber security.                                  |
-| [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)         | Youtuber who posts interesting content about computer science.                     |
-| [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)              | Short and fun cyber security channel.                                              |
-| [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)      | Fun and chill youtuber who solves coding challenges with some graphical framework. |
+| [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)             | Ironic computer science youtuber. *Funny and educative*                            |
+| [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)                  | Cyber security news.                                                               |
+| [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)         | Well produced videos to learn something new about programming.                     |
+| [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)              | Cyber Security channel.                                                            |
+| [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)      | Chill and Fun youtuber/streamer which uses graphical frameworks to solve challenges|
 
 ## Articles
 
-| Name                                                                                                                                                   | Description |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| [Oh Shit, Git](http://ohshitgit.com/)                                                                                                                  | This helps if you screw something up with git. |
-| [Js The Right Way](http://jstherightway.org/)                                                                                                          | Teaches best practices of Javascript. |   
+| Name                                                                                                                                                   | Description                                       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| [Oh Shit, Git](http://ohshitgit.com/)                                                                                                                  | Read this in case you screw with git.             |
+| [Js The Right Way](http://jstherightway.org/)                                                                                                          | Javascript best practices.                        |   
 | [Automate Your Dating Life with 100 Lines of Python](https://elimernit.com/blog/auto-swipe/)                                                           | A python script which auto swipes right on Hinge. |
-| [Why Computers Can Never Generate Truly Random Numbers](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity/) | The essence of pseudorandom vs true random |
-| [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)                     | Pros and cons of using Linux for development. |
-| [Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                                 | Javascript best testing practices |
-| [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices)                                                                             | Node.js best practices. |
+| [Why Computers Can Never Generate Truly Random Numbers](https://curiosity.com/topics/why-computers-can-never-generate-truly-random-numbers-curiosity/) | The essence of pseudorandom vs true random        |
+| [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)                     | Pros and cons of using Linux for development.     |
+| [Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                                 | Javascript best testing practices                 |
+| [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices)                                                                             | Node.js best practices.                           |
 
 ## Books
 
-| Name                                                                                                    | Description                                                       |
-|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| [Teach yourself Computer Science](https://teachyourselfcs.com/)                                         | List of books to self teach Computer Science.                     |
-| [Coders: The Making of a New Tribe and the Remaking of the World](https://www.amazon.com/dp/0735220565) | A book which talks about the importance of the code in the world. |
+| Name                                                                                                    | Description                                       |
+|---------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| [Teach yourself Computer Science](https://teachyourselfcs.com/)                                         | List of books to teach yourself Computer Science. |
+| [Coders: The Making of a New Tribe and the Remaking of the World](https://www.amazon.com/dp/0735220565) | The importance of various code in the world.      |
 
 ## Tools
 
-| Name                                                      | Description                                                    |
-|-----------------------------------------------------------|----------------------------------------------------------------|
-| [Windows Quick Look](https://github.com/QL-Win/QuickLook) | A tool which brings the "Quick Look" macOS feature to Windows. |
-| [scrcpy](https://github.com/Genymobile/scrcpy)            | Display and control your Android.                              |
-| [Remove.bg](https://remove.bg)                            | Removes the background from a picture.                         |
-| [Pexels](https://pexels.com)                              | Free stock photos.                                             |
-| [Pexels](https://pexels.com)                              | Free stock photos.                                             |
-| [Icons8](https://icons8.com)                              | Free icons.                                                    |
-| [Flaticon](https://flaticon.com)                          | Free icons.                                                    |
-| [Zenkit](https://zenkit.com)                              | Project management tool.                                       |
-| [Trello](https://trello.com)                              | Project management tool.                                       |
-| [ClickUP](https://clickup.com/)                           | A tool which purpose is to replace all the common tools.       |
-| [DaFont](https://dafont.com/)                             | Free fonts.                                                    |
-| [Google Fonts](https://fonts.google.com/)                 | Free fonts and easy to integrate to your website.              |
+| Name                                                       | Description                                                    |
+|------------------------------------------------------------|----------------------------------------------------------------|
+| [Windows Quick Look](https://github.com/QL-Win/QuickLook)  | A tool which brings the "Quick Look" macOS feature to Windows. |
+| [scrcpy](https://github.com/Genymobile/scrcpy)             | Display and control your Android.                              |
+| [Remove.bg](https://remove.bg)                             | Removes the background from a picture.                         |
+| [Pexels](https://pexels.com)                               | Free stock photos.                                             |
+| [Pexels](https://pexels.com)                               | Free stock photos.                                             |
+| [Icons8](https://icons8.com)                               | Free icons.                                                    |
+| [Flaticon](https://flaticon.com)                           | Free icons.                                                    |
+| [Zenkit](https://zenkit.com)                               | Project management tool.                                       |
+| [Trello](https://trello.com)                               | Project management tool.                                       |
+| [ClickUP](https://clickup.com/)                            | A tool which purpose is to replace all the common tools.       |
+| [DaFont](https://dafont.com/)                              | Free fonts.                                                    |
+| [Google Fonts](https://fonts.google.com/)                  | Free fonts and easy to integrate to your website.              |
+| [Svg Path Editor](https://yqnn.github.io/svg-path-editor/) | A svg path editor made by Yann Armelin.                        |
 
 ## Libraries and Frameworks
 
@@ -100,7 +101,7 @@ This is a repository which gathers links about computer science either about `Co
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [Unreal Engine](https://www.unrealengine.com/en-US/)                           | Game Engine.                                                                    |
 | [Unity](https://unity.com/)                                                    | Game Engine.                                                                    |
-| [Deno](https://deno.land/)                                                     | A secure runtime for Javascript and Typescript. *A better Node.js*              |
+| [Deno](https://deno.land/)                                                     | A secure runtime for Javascript and Typescript.                                 |
 | [Imba](https://www.imba.io/)                                                   | A programming language made for web development which compiles to Javascript.   |
 
 ## Courses
