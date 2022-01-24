@@ -73,7 +73,6 @@ I created this repository to add
 | [scrcpy](https://github.com/Genymobile/scrcpy)             | Display and control your Android.                              |
 | [Remove.bg](https://remove.bg)                             | Removes the background from a picture.                         |
 | [Pexels](https://pexels.com)                               | Free stock photos.                                             |
-| [Pexels](https://pexels.com)                               | Free stock photos.                                             |
 | [Icons8](https://icons8.com)                               | Free icons.                                                    |
 | [Flaticon](https://flaticon.com)                           | Free icons.                                                    |
 | [Zenkit](https://zenkit.com)                               | Project management tool.                                       |
@@ -82,6 +81,7 @@ I created this repository to add
 | [DaFont](https://dafont.com/)                              | Free fonts.                                                    |
 | [Google Fonts](https://fonts.google.com/)                  | Free fonts and easy to integrate to your website.              |
 | [Svg Path Editor](https://yqnn.github.io/svg-path-editor/) | A svg path editor made by Yann Armelin.                        |
+| [Crontab Guru](https://crontab.guru/)                      | A cron schedule editor                                         |
 
 ## Libraries and Frameworks
 
