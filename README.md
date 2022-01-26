@@ -45,6 +45,7 @@ I created this repository to add
 | [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)         | Well produced videos to learn something new about programming.                     |
 | [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)              | Cyber Security channel.                                                            |
 | [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)      | Chill and Fun youtuber/streamer which uses graphical frameworks to solve challenges|
+| [Socratica](https://www.youtube.com/c/Socratica/about)                            | Education channel about math and computer science.                                 |
 
 ## Articles
 
@@ -57,6 +58,7 @@ I created this repository to add
 | [Should you use Linux for development?](https://www.quora.com/Why-do-some-programmers-prefer-Linux-OS-instead-of-Windows-or-macOS)                     | Pros and cons of using Linux for development.     |
 | [Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                                 | Javascript best testing practices                 |
 | [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices)                                                                             | Node.js best practices.                           |
+| [Text Sentiment Analysis](https://towardsdatascience.com/text-sentiment-analysis-in-nlp-ce6baba6d466)                                                  | Text Sentiment Analysis in NLP                    |
 
 ## Books
 
