@@ -70,21 +70,22 @@ I created this repository to add
 
 ## Tools
 
-| Name                                                       | Description                                                    |
-|------------------------------------------------------------|----------------------------------------------------------------|
-| [Windows Quick Look](https://github.com/QL-Win/QuickLook)  | A tool which brings the "Quick Look" macOS feature to Windows. |
-| [scrcpy](https://github.com/Genymobile/scrcpy)             | Display and control your Android.                              |
-| [Remove.bg](https://remove.bg)                             | Removes the background from a picture.                         |
-| [Pexels](https://pexels.com)                               | Free stock photos.                                             |
-| [Icons8](https://icons8.com)                               | Free icons.                                                    |
-| [Flaticon](https://flaticon.com)                           | Free icons.                                                    |
-| [Zenkit](https://zenkit.com)                               | Project management tool.                                       |
-| [Trello](https://trello.com)                               | Project management tool.                                       |
-| [ClickUP](https://clickup.com/)                            | A tool which purpose is to replace all the common tools.       |
-| [DaFont](https://dafont.com/)                              | Free fonts.                                                    |
-| [Google Fonts](https://fonts.google.com/)                  | Free fonts and easy to integrate to your website.              |
-| [Svg Path Editor](https://yqnn.github.io/svg-path-editor/) | A svg path editor made by Yann Armelin.                        |
-| [Crontab Guru](https://crontab.guru/)                      | A cron schedule editor                                         |
+| Name                                                       | Description                                                              |
+|------------------------------------------------------------|--------------------------------------------------------------------------|
+| [Windows Quick Look](https://github.com/QL-Win/QuickLook)  | A tool which brings the "Quick Look" macOS feature to Windows.           |
+| [scrcpy](https://github.com/Genymobile/scrcpy)             | Display and control your Android.                                        |
+| [Remove.bg](https://remove.bg)                             | Removes the background from a picture.                                   |
+| [Pexels](https://pexels.com)                               | Free stock photos.                                                       |
+| [Icons8](https://icons8.com)                               | Free icons.                                                              |
+| [Flaticon](https://flaticon.com)                           | Free icons.                                                              |
+| [Zenkit](https://zenkit.com)                               | Project management tool.                                                 |
+| [Trello](https://trello.com)                               | Project management tool.                                                 |
+| [ClickUP](https://clickup.com/)                            | A tool which purpose is to replace all the common tools.                 |
+| [DaFont](https://dafont.com/)                              | Free fonts.                                                              |
+| [Google Fonts](https://fonts.google.com/)                  | Free fonts and easy to integrate to your website.                        |
+| [Svg Path Editor](https://yqnn.github.io/svg-path-editor/) | A svg path editor made by Yann Armelin.                                  |
+| [Crontab Guru](https://crontab.guru/)                      | A cron schedule editor                                                   |
+| [Roadmap](https://roadmap.sh)                              | Technoly roadmaps for you to become a X developer by the end of the year |
 
 ## Libraries and Frameworks
 
