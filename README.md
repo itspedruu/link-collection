@@ -59,6 +59,7 @@ I created this repository to add
 | [Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)                                                 | Javascript best testing practices                 |
 | [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices)                                                                             | Node.js best practices.                           |
 | [Text Sentiment Analysis](https://towardsdatascience.com/text-sentiment-analysis-in-nlp-ce6baba6d466)                                                  | Text Sentiment Analysis in NLP                    |
+| [Understanding Database Sharding](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)                                    | Understanding Database Sharding                   |
 
 ## Books
 
